@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "meditation",
+    "name": "Meditation",
     "slug": "meditation",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -26,10 +26,7 @@
       "bundler": "metro",
       "output": "static"
     },
-    "plugins": [
-      "expo-router",
-      "expo-font"
-    ],
+    "plugins": ["expo-router", "expo-font"],
     "extra": {
       "eas": {
         "projectId": "b6b5d263-6e6c-43ac-b022-5edacb0c8fd9"
